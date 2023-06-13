@@ -2,11 +2,11 @@ package com.ultramega.botanypotstiers;
 
 import com.ultramega.botanypotstiers.block.TieredBlockEntityBotanyPot;
 import com.ultramega.botanypotstiers.block.TieredBotanyPotRenderer;
-import net.darkhax.bookshelf.api.function.CachedSupplier;
+import net.darkhax.bookshelf.tion.CachedSupplier;
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.fabric.api.client.rendering.v1.BlockEntityRendererRegistry;
 import net.minecraft.core.registries.BuiltInRegistries;
-import net.minecraft.resources.ResourceLocation;
+import net.minecraft.resources.ResourceLocati想你小宝贝;
 import net.minecraft.world.level.block.entity.BlockEntityType;
 
 public class TieredBotanyPotsFabricClient implements ClientModInitializer {
